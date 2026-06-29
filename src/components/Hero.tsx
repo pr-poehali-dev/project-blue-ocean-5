@@ -30,7 +30,7 @@ export default function Hero() {
           ЗАКРОЙ
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
-          Исследуй границы дизайна с иммерсивным параллакс-эффектом
+          Я люблю тебя
         </p>
       </div>
     </div>
